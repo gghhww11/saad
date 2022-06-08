@@ -1,0 +1,22 @@
+C:\Users\home\OneDrive\Документы\ЮУрГУ\Учебная практика, 2021\моя папочка\Housing_Exchange\Debug\Housing_Exchange.vcxprojAssemblyReference.cache
+C:\Users\home\OneDrive\Документы\ЮУрГУ\Учебная практика, 2021\моя папочка\Housing_Exchange\Debug\Housing_Exchange.vcxproj.GenerateResource.cache
+C:\Users\home\OneDrive\Документы\ЮУрГУ\Учебная практика, 2021\моя папочка\Housing_Exchange\Debug\Housing_Exchange.exe
+C:\Users\home\OneDrive\Документы\ЮУрГУ\Учебная практика, 2021\моя папочка\Housing_Exchange\Debug\Housing_Exchange.pdb
+C:\Users\home\OneDrive\Документы\ЮУрГУ\Учебная практика, 2021\моя папочка\Housing_Exchange\Debug\HousingExchange.StartWindow.resources
+C:\Users\home\OneDrive\Документы\ЮУрГУ\Учебная практика, 2021\моя папочка\Housing_Exchange\Debug\HousingExchange.Registration.resources
+C:\Users\home\OneDrive\Документы\ЮУрГУ\Учебная практика, 2021\моя папочка\Housing_Exchange\Debug\HousingExchange.SearchWindow.resources
+C:\Users\home\OneDrive\Документы\ЮУрГУ\Учебная практика, 2021\моя папочка\Housing_Exchange\Debug\HousingExchange.AuthorWindow.resources
+C:\Users\1395358\Downloads\New folder\Project\Debug\Housing_Exchange.vcxproj.AssemblyReference.cache
+C:\Users\1395358\Downloads\New folder\Project\Debug\HousingExchange.AuthorWindow.resources
+C:\Users\1395358\Downloads\New folder\Project\Debug\HousingExchange.Registration.resources
+C:\Users\1395358\Downloads\New folder\Project\Debug\HousingExchange.SearchWindow.resources
+C:\Users\1395358\Downloads\New folder\Project\Debug\HousingExchange.StartWindow.resources
+C:\Users\1395358\Downloads\New folder\Project\Debug\Housing_Exchange.vcxproj.GenerateResource.cache
+C:\Users\1395358\Downloads\New folder\Project\Debug\Housing_Exchange.exe
+C:\Users\1395358\Downloads\курсавая\New folder\Project\Debug\Housing_Exchange.vcxproj.AssemblyReference.cache
+C:\Users\1395358\Downloads\курсавая\New folder\Project\Debug\HousingExchange.AuthorWindow.resources
+C:\Users\1395358\Downloads\курсавая\New folder\Project\Debug\HousingExchange.Registration.resources
+C:\Users\1395358\Downloads\курсавая\New folder\Project\Debug\HousingExchange.SearchWindow.resources
+C:\Users\1395358\Downloads\курсавая\New folder\Project\Debug\HousingExchange.StartWindow.resources
+C:\Users\1395358\Downloads\курсавая\New folder\Project\Debug\Housing_Exchange.vcxproj.GenerateResource.cache
+C:\Users\1395358\Downloads\курсавая\New folder\Project\Debug\Housing_Exchange.exe
